@@ -2,7 +2,7 @@ set nocompatible              " be iMproved, required
 filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
-set rtp+=~/.vim/bundle/Vundle.vim
+set rtp+=~/.config/nvim/bundle/Vundle.vim
 call vundle#begin()
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
@@ -13,11 +13,13 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-fugitive'
 Plugin 'scrooloose/syntastic'
 Plugin 'vim-airline/vim-airline'
-Plugin 'tomasr/molokai'
 Plugin 'scrooloose/nerdtree'
 Plugin 'craigemery/vim-autotag'
 Plugin 'kien/ctrlp.vim'
 Plugin 'valloric/youcompleteme'
+
+Plugin 'tomasr/molokai'
+Plugin 'dracula/vim'
 
 Plugin 'prettier/vim-prettier'
 " Plugin 'leafgarland/typescript-vim'
@@ -41,12 +43,11 @@ filetype plugin indent on    " required
 "
 
 " change leader key
-let mapleader=","
+let mapleader="g"
 
 " spacing
 set smartindent
 set expandtab
-set autoindent
 
 " self explanatory...
 syntax on
@@ -66,6 +67,8 @@ autocmd vimenter * NERDTree
 " enable omnifunc
 set omnifunc=syntaxcomplete#Complete
 
+colorscheme dracula
+
 noremap <S-Tab> <C-d>
 
 " youcompleteme keybindings
@@ -73,3 +76,19 @@ nnoremap <leader>gg :YcmCompleter GoToDefinitionElseDeclaration<CR>
 nnoremap <leader>gt :YcmCompleter GetType<CR>
 nnoremap <leader>gr :YcmCompleter GoToReferences<CR>
 nnoremap <leader>gc :YcmCompleter RefactorRename<CR>
+
+" window keybindings
+nnoremap <leader>j <C-W>j
+nnoremap <leader>k <C-W>k
+nnoremap <leader>l <C-W>l
+nnoremap <leader>h <C-W>h
+
+" change semi-colon for colon
+nnoremap ; :
+nnoremap : ;
+
+" commands for exit and quitting
+nnoremap <leader>w :w
+nnoremap <leader>q ZZ
+nnoremap <leader>e ZQ
+

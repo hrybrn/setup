@@ -3,7 +3,7 @@ filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.config/nvim/bundle/Vundle.vim
-call vundle#begin()
+call vundle#begin("~/.config/nvim/bundle")
 " alternatively, pass a path where Vundle should install plugins
 "call vundle#begin('~/some/path/here')
 
@@ -11,12 +11,12 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'tpope/vim-fugitive'
-Plugin 'scrooloose/syntastic'
 Plugin 'vim-airline/vim-airline'
-Plugin 'scrooloose/nerdtree'
 Plugin 'craigemery/vim-autotag'
+Plugin 'preservim/nerdtree'
 Plugin 'kien/ctrlp.vim'
 Plugin 'valloric/youcompleteme'
+Plugin 'vim-syntastic/syntastic'
 
 Plugin 'tomasr/molokai'
 Plugin 'dracula/vim'
@@ -83,12 +83,21 @@ nnoremap <leader>k <C-W>k
 nnoremap <leader>l <C-W>l
 nnoremap <leader>h <C-W>h
 
-" change semi-colon for colon
-nnoremap ; :
-nnoremap : ;
-
 " commands for exit and quitting
-nnoremap <leader>w :w
+nnoremap <leader>w :w<CR>
 nnoremap <leader>q ZZ
 nnoremap <leader>e ZQ
 
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+
+augroup SyntaxSettings
+    autocmd!
+    autocmd BufNewFile,BufRead *.tsx set filetype=typescript
+augroup END

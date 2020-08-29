@@ -1,0 +1,3451 @@
+Desktop is 3840 x 2160 @ 60 Hz
+New context 0x41be5a8 created with attributes:
+Initialize engine version: 2017.4.11f1 (8c6b8ef6d111)
+GfxDevice: creating device client; threaded=1
+Renderer: GeForce GTX 1070/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 440.82
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
+t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
+ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
+RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
+ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
+GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
+L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_
+buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap_triangles GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_expo
+nent GL_NV_memory_attachment GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_tran
+sform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 68937128
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.086 seconds
+New context 0x4d04578 created with attributes:
+Default vsync count 1
+requesting resize 3840 x 2160
+Using native desktop resolution 3840 x 2160
+requesting fullscreen 3840 x 2160 at 0 Hz
+Desktop is 3840 x 2160 @ 60 Hz
+UnloadTime: 1.541000 ms
+WwiseUnity: Sound engine initialized successfully.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] St:Callbacks setup
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] Steam MatchMaker Instantiated -78
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error: Could not build item filter because Placeable Metadata List has not been instantiated yet.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Waiting to initialize: 0 then loading main menu
+Worker Thread Manager initialized.
+Scene change: Init
+[Net] Attempting to find IP
+[Net] Contacting ipify...
+CheckOnStart: 0. Args being used: /home/hb/.local/share/Steam/steamapps/common/Ultimate Chicken Horse/UltimateChickenHorse.x86_64
+Done waiting for initialization, loading main menu.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.121000 ms
+Scene change: MainMenu, destroying lobby manager
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 62976.
+Total: 49.926000 ms (FindLiveObjects: 3.047000 ms CreateObjectMapping: 5.280000 ms MarkObjects: 41.388000 ms  DeleteObjects: 0.211000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 62976.
+Total: 51.623000 ms (FindLiveObjects: 3.397000 ms CreateObjectMapping: 4.932000 ms MarkObjects: 43.224000 ms  DeleteObjects: 0.070000 ms)
+
+Finding best hosting region...
+Loading game from: /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Save file loading finished. Checking achievements...
+Ultimate Chicken Horse - version 1.7.028
+Date UTC: 06/13/2020 22:51:48
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page TabletInterface has no page number text element!
+requesting resize 3840 x 2160
+Using native desktop resolution 3840 x 2160
+requesting fullscreen 3840 x 2160 at 60 Hz
+Desktop is 3840 x 2160 @ 60 Hz
+US avg: 500
+EU avg: 17
+AP avg: 186
+Setting default hosting region to: Europe
+Language Source was up-to-date with Google Spreadsheet
+Loading game from: /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Save file loading finished. Checking achievements...
+Event GameStart: 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Gamesparks: attempting to connect with Steam
+Successfully connected GameSparks to Steam (brown.town)
+[Net] GameSparks Auth: Could not read permission level for main user.
+[Net] GameSparks Auth: Could not read permission level for main user.
+[Net] St:Steam Join Request received from 76561198053687157 for 109775241016147847
+[Net] St:Entered Steam Lobby: 109775241016147847(1)
+Joining the Gamesparks lobby...
+Object reference not set to an instance of an object
+[Net] Problem joining the GameSparks lobby: {"codeFull":"Lobby Full: 2 slots are reserved and 3 players"}
+[Net] St:Steam Join Request received from 76561198053687157 for 109775241016147847
+[Net] St:Entered Steam Lobby: 109775241016147847(4)
+Joining the Gamesparks lobby...
+Object reference not set to an instance of an object
+[Net] Entered Lobby: Owner:False, Using Unity Relay:True, Running version: 1.7.028
+[Net]trying to join Unity Lobby, networkID: 450359962765395247 - in server region: Europe
+MatchMakingClient Join :https://eu1-mm.unet.unity3d.com/json/reply/JoinMatchRequest
+[Net] Entered GameSparks lobby: 5a304ab206557d04ef05273e
+Event JoinMatch: 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] U:Join match succeeded
+[Net] U:match info Set 450359962765395247 @ 18.184.145.74:9999 [53590,True]
+[Net] Waiting for controller assignment
+[Net] Attempting to load Treehouse
+Unloading the last loaded scene Assets/Scenes/MainMenu.unity(build index: 1), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 216)
+
+Unloading unused assets
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 643 unused Assets to reduce memory usage. Loaded Objects now: 47529.
+Total: 41.530000 ms (FindLiveObjects: 3.348000 ms CreateObjectMapping: 4.909000 ms MarkObjects: 32.154000 ms  DeleteObjects: 1.118000 ms)
+
+Collecting Garbage
+Actually loading TreeHouseLobby
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.707000 ms
+Scene change: TreeHouseLobby
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 72709.
+Total: 50.161000 ms (FindLiveObjects: 3.179000 ms CreateObjectMapping: 5.689000 ms MarkObjects: 41.159000 ms  DeleteObjects: 0.134000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72709.
+Total: 49.411000 ms (FindLiveObjects: 3.181000 ms CreateObjectMapping: 4.873000 ms MarkObjects: 41.239000 ms  DeleteObjects: 0.118000 ms)
+
+[Net] L: Trying to connect client using Unity match:450359962765395247 @ 18.184.145.74:9999 [53590,True]
+Client started: :0 (:17778) 
+Lobby client entered
+Client connected: hostId: 0 connectionId: 1 isReady: True channel count: 3
+Lobby Player added for local player 1
+Spawned Twitch Chat ClientState...
+LobbyPlayer: Did not need to wait for magical Unity event.
+LobbyPlayer: Did not need to wait for magical Unity event.
+LobbyPlayer: Did not need to wait for magical Unity event.
+LobbyPlayer: Did not need to wait for magical Unity event.
+FindAndSetPlayerGSID: Finding GSID for brown.town...
+FindAndSetPlayerGSID: Using main user GSID for Player brown.town
+Player GSID was successfully found.
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page TabletInterface has no page number text element!
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Outfit ready to unlock in JUNGLETEMPLE
+Received message to switch to mode PARTY
+Received message to switch to mode PARTY
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Receiving signal to set game mode to PARTY
+Client not ready
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 49.886000 ms
+Scene change: SpaceLevel
+Client exit
+Lobby Client scene changed
+
+Unloading 1268 unused Assets to reduce memory usage. Loaded Objects now: 56655.
+Total: 50.626000 ms (FindLiveObjects: 2.750000 ms CreateObjectMapping: 5.545000 ms MarkObjects: 40.376000 ms  DeleteObjects: 1.954000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 56655.
+Total: 47.463000 ms (FindLiveObjects: 2.712000 ms CreateObjectMapping: 5.167000 ms MarkObjects: 39.484000 ms  DeleteObjects: 0.100000 ms)
+
+Spawn scene object not found for 40
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Spawned Twitch Chat ClientState...
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Did not need to wait for magical Unity event.
+Game player associated with local player 1
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Magical Unity event happened - waited 25 frames.
+GamePlayer: Magical Unity event happened - waited 65 frames.
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Magical Unity event happened - waited 59 frames.
+Marking scene init as done for local players...
+Event CharacterPicked: 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Event MatchStart_Client: 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Propagating initial level placeable IDs on client...
+Memorized 1 placeables that are part of the level.
+Receiving signal to start phase START
+Cursor(Clone) Finding player 1
+Setting bounds for cursor Cursor(Clone): Center: (0.9, 1.6, 0.0), Extents: (31.9, 23.5, 0.0)
+PartyPickCursor(Clone) Finding controller 1
+NotAMeatboy(Clone) Finding player 1
+Placing 
+Placing 
+Placing 
+Setup Start
+0 players already enqueued
+4 players enqueued
+Setting up VS Mode
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Marking SetupStart as done for local players...
+Warning! Page TabletInterface has no page number text element!
+Receiving signal to start phase PLACE
+To Place phase
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 10_Stairs(Clone) (Placeable)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 06_Beam(Clone) (Placeable)(0 left)
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 203a_LongDistanceMove_Glue1(Clone) (HorizontalMovingPlatform)(0 left)
+Placing 
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed Glue(Clone) (MultipieceBlock)(0 left)
+Placing 
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 06_Beam(Clone) (Placeable)(0 left)
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 06_Beam(Clone) (Placeable)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 200_UpBlower(Clone) (UpBlower)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 200_UpBlower(Clone) (UpBlower)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 1 done placing
+Waiting to place 
+Block already marked for destruction: 2000041
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000041
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed TreadMill(Clone) (Treadmill)(0 left)
+Placing 
+Placing 
+Placing 
+Placing 
+Placing 
+Placing 
+Placing 
+Placing 
+Destroying Glue 2000042 (required colliders conditions not satisfied)
+1 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 06_Beam(Clone) (Placeable)(0 left)
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 10_Stairs(Clone) (Placeable)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Player 2 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+Player 3 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+Player 4 lose streak: 1
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed Blackhole(Clone) (Blackhole)(0 left)
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 200_UpBlower(Clone) (UpBlower)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 40_Spring(Clone) (Spring)(0 left)
+Found placeable 4000830 for netsurrogate with ID 89
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 206_PressureTriggerSpikes(Clone) (PressureTriggerSpikes)(0 left)
+Receiving signal to start phase PLAY
+Found placeable 3000810 for netsurrogate with ID 90
+To Play phase
+Done waiting for characters
+LobbyPlayer.OnDestroy for player 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] Demented left the lobby
+LobbyPlayer.OnDestroy for player 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] Gay pursuit left the lobby
+LobbyPlayer.OnDestroy for player 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] Pretzels left the lobby
+LobbyPlayer.OnDestroy for player 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removing local player and controller associated with lobby player
+Sending LobbyPlayerRemovedEvent for player 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Log: connection {1} has been disconnected by timeout; address {::ffff:18.184.145.74:9999} time {358442}, last rec time {354033} rtt {41} timeout {4000}
+Lobby Client disconnected
+AbortGameInProgress called with reason Disconnected
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Abort reason set to Disconnected
+Abort game requested!
+Client exit
+Client stopped, returning to main menu
+AbortGameInProgressGracefully called with reason None
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ClientDisconnected due to error: Timeout
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client disconnected
+AbortGameInProgressGracefully called with reason Disconnected
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Aborting game and returning to main menu
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient DropConnection :https://eu1-mm.unet.unity3d.com/json/reply/DropConnectionRequest
+[Net] U: Leaving Unity Match: 450359962765395247 @ 18.184.145.74:9999 [53590,True]
+[Net] St:Leaving Steam Lobby
+LobbyManager being destroyed
+[Net] U: Connection Drop Failed Failed unity_GetRelayHostInformationForNodeId for appId=338601FormatException:[System.FormatException: FAILURE Returned from server: Failed unity_GetRelayHostInformationForNodeId for appId=338601
+  at UnityEngine.Networking.Match.Response.Parse (System.Object obj) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.Match.DropConnectionResponse.Parse (System.Object obj) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.Match.NetworkMatch+<ProcessMatchResponse>c__Iterator0`2[UnityEngine.Networking.Match.DropConnectionResponse,UnityEngine.Networking.Match.NetworkMatch+BasicResponseDelegate].MoveNext () [0x00000] in <filename unknown>:0 ] 
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[NetworkIdentity] () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkBehaviour.get_myView () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkBehaviour.get_hasAuthority () [0x00000] in <filename unknown>:0 
+  at GameControl+<FadeToLevel>c__Iterator6.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading the last loaded scene Assets/Scenes/MultplayerLevels/SpaceLevel.unity(build index: 21), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 216)
+
+Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 951 unused Assets to reduce memory usage. Loaded Objects now: 54786.
+Total: 57.489000 ms (FindLiveObjects: 3.065000 ms CreateObjectMapping: 5.953000 ms MarkObjects: 45.878000 ms  DeleteObjects: 2.593000 ms)
+
+Collecting Garbage
+Actually loading MainMenu
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.384000 ms
+Scene change: MainMenu, destroying lobby manager
+Finding best hosting region...
+Loading game from: /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Save file loading finished. Checking achievements...
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page TabletInterface has no page number text element!
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 70750.
+Total: 62.835000 ms (FindLiveObjects: 3.581000 ms CreateObjectMapping: 6.057000 ms MarkObjects: 53.036000 ms  DeleteObjects: 0.161000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 70750.
+Total: 61.351000 ms (FindLiveObjects: 3.378000 ms CreateObjectMapping: 5.139000 ms MarkObjects: 52.687000 ms  DeleteObjects: 0.147000 ms)
+
+Loading game from: /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Save file loading finished. Checking achievements...
+Event GameStart: 5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+US avg: 500
+EU avg: 17
+AP avg: 186
+Setting default hosting region to: Europe
+[Net] St:Steam Join Request received from 76561198053687157 for 109775241016156365
+[Net] St:Entered Steam Lobby: 109775241016156365(1)
+Joining the Gamesparks lobby...
+Object reference not set to an instance of an object
+[Net] Entered Lobby: Owner:False, Using Unity Relay:True, Running version: 1.7.028
+[Net]trying to join Unity Lobby, networkID: 450359962765395609 - in server region: Europe
+MatchMakingClient Join :https://eu1-mm.unet.unity3d.com/json/reply/JoinMatchRequest
+[Net] Entered GameSparks lobby: 5a304ab206557d04ef05273e
+Event JoinMatch: 6
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] U:Join match succeeded
+[Net] U:match info Set 450359962765395609 @ 18.184.145.74:9999 [52270,True]
+[Net] Waiting for controller assignment
+[Net] Attempting to load Treehouse
+Unloading the last loaded scene Assets/Scenes/MainMenu.unity(build index: 1), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene.
+ 
+(Filename:  Line: 216)
+
+Unloading unused assets
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 560 unused Assets to reduce memory usage. Loaded Objects now: 54719.
+Total: 53.530000 ms (FindLiveObjects: 2.709000 ms CreateObjectMapping: 6.094000 ms MarkObjects: 44.176000 ms  DeleteObjects: 0.551000 ms)
+
+Collecting Garbage
+Actually loading TreeHouseLobby
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.954000 ms
+Scene change: TreeHouseLobby
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 72761.
+Total: 55.873000 ms (FindLiveObjects: 3.685000 ms CreateObjectMapping: 5.467000 ms MarkObjects: 46.514000 ms  DeleteObjects: 0.206000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 72761.
+Total: 55.560000 ms (FindLiveObjects: 3.435000 ms CreateObjectMapping: 4.949000 ms MarkObjects: 47.055000 ms  DeleteObjects: 0.120000 ms)
+
+[Net] L: Trying to connect client using Unity match:450359962765395609 @ 18.184.145.74:9999 [52270,True]
+Client started: :0 (:17778) 
+Lobby client entered
+Client connected: hostId: 0 connectionId: 1 isReady: True channel count: 3
+Lobby Player added for local player 1
+Spawned Twitch Chat ClientState...
+LobbyPlayer: Did not need to wait for magical Unity event.
+LobbyPlayer: Did not need to wait for magical Unity event.
+FindAndSetPlayerGSID: Finding GSID for brown.town...
+FindAndSetPlayerGSID: Using main user GSID for Player brown.town
+Player GSID was successfully found.
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page TabletInterface has no page number text element!
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Received message to switch to mode PARTY
+Received message to switch to mode PARTY
+LobbyPlayer.InitPlayer(): Waiting for magical Unity event.
+LobbyPlayer: Magical Unity event happened - waited 62 frames.
+[Net] Pretzels joined the lobby
+LobbyPlayer.InitPlayer(): Waiting for magical Unity event.
+LobbyPlayer: Magical Unity event happened - waited 42 frames.
+[Net] Gay pursuit joined the lobby
+Receiving signal to set game mode to PARTY
+Client not ready
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 47.878000 ms
+Scene change: SpaceLevel
+Client exit
+Lobby Client scene changed
+
+Unloading 1270 unused Assets to reduce memory usage. Loaded Objects now: 56922.
+Total: 55.562000 ms (FindLiveObjects: 2.690000 ms CreateObjectMapping: 5.602000 ms MarkObjects: 45.262000 ms  DeleteObjects: 2.007000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 56922.
+Total: 52.873000 ms (FindLiveObjects: 2.574000 ms CreateObjectMapping: 5.062000 ms MarkObjects: 45.122000 ms  DeleteObjects: 0.114000 ms)
+
+Spawned Twitch Chat ClientState...
+GamePlayer: Did not need to wait for magical Unity event.
+Game player associated with local player 1
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Did not need to wait for magical Unity event.
+GamePlayer: Magical Unity event happened - waited 30 frames.
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Magical Unity event happened - waited 64 frames.
+Marking scene init as done for local players...
+Event CharacterPicked: 7
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Event MatchStart_Client: 8
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Propagating initial level placeable IDs on client...
+Memorized 1 placeables that are part of the level.
+Receiving signal to start phase START
+Cursor(Clone) Finding player 1
+Setting bounds for cursor Cursor(Clone): Center: (0.9, 1.6, 0.0), Extents: (31.9, 23.5, 0.0)
+PartyPickCursor(Clone) Finding controller 1
+NotAMeatboy(Clone) Finding player 1
+Placing 
+Placing 
+Placing 
+Setup Start
+0 players already enqueued
+4 players enqueued
+Setting up VS Mode
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Marking SetupStart as done for local players...
+Warning! Page TabletInterface has no page number text element!
+Receiving signal to start phase PLACE
+To Place phase
+Event PlayerRanking: 9
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Event MatchEnd_Client: 10
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 929 unused Assets to reduce memory usage. Loaded Objects now: 56229.
+Total: 58.773000 ms (FindLiveObjects: 3.292000 ms CreateObjectMapping: 6.380000 ms MarkObjects: 47.701000 ms  DeleteObjects: 1.400000 ms)
+
+Client not ready
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.249000 ms
+Scene change: TreeHouseLobby
+Destroyed duplicate LobbyManager instance
+Lobby client entered
+Lobby Client scene changed
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 73301.
+Total: 62.285000 ms (FindLiveObjects: 4.243000 ms CreateObjectMapping: 5.360000 ms MarkObjects: 52.556000 ms  DeleteObjects: 0.126000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73301.
+Total: 61.864000 ms (FindLiveObjects: 3.546000 ms CreateObjectMapping: 5.000000 ms MarkObjects: 53.209000 ms  DeleteObjects: 0.108000 ms)
+
+Received message to switch to mode PARTY
+Received message to switch to mode PARTY
+Spawned Twitch Chat ClientState...
+Waiting for Host to Initialize
+Setting up SNAKE
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page TabletInterface has no page number text element!
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Received message to switch to mode PARTY
+Received message to switch to mode PARTY
+Receiving signal to set game mode to PARTY
+Client not ready
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 46.469000 ms
+Scene change: SpaceLevel
+Client exit
+Lobby Client scene changed
+
+Unloading 1178 unused Assets to reduce memory usage. Loaded Objects now: 56971.
+Total: 60.502000 ms (FindLiveObjects: 2.950000 ms CreateObjectMapping: 4.881000 ms MarkObjects: 50.346000 ms  DeleteObjects: 2.324000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 56971.
+Total: 55.653000 ms (FindLiveObjects: 2.569000 ms CreateObjectMapping: 4.745000 ms MarkObjects: 48.236000 ms  DeleteObjects: 0.103000 ms)
+
+Spawned Twitch Chat ClientState...
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Did not need to wait for magical Unity event.
+GamePlayer: Did not need to wait for magical Unity event.
+Game player associated with local player 1
+GamePlayer: Magical Unity event happened - waited 19 frames.
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Magical Unity event happened - waited 71 frames.
+Marking scene init as done for local players...
+Event CharacterPicked: 11
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Event MatchStart_Client: 12
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Propagating initial level placeable IDs on client...
+Memorized 1 placeables that are part of the level.
+Receiving signal to start phase START
+Cursor(Clone) Finding player 1
+Setting bounds for cursor Cursor(Clone): Center: (0.9, 1.6, 0.0), Extents: (31.9, 23.5, 0.0)
+PartyPickCursor(Clone) Finding controller 1
+NotAMeatboy(Clone) Finding player 1
+Placing 
+Placing 
+Placing 
+Setup Start
+0 players already enqueued
+4 players enqueued
+Setting up VS Mode
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Marking SetupStart as done for local players...
+Warning! Page TabletInterface has no page number text element!
+Receiving signal to start phase PLACE
+To Place phase
+Event PlayerRanking: 13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Event MatchEnd_Client: 14
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 929 unused Assets to reduce memory usage. Loaded Objects now: 56278.
+Total: 61.978000 ms (FindLiveObjects: 3.729000 ms CreateObjectMapping: 6.461000 ms MarkObjects: 50.458000 ms  DeleteObjects: 1.328000 ms)
+
+Client not ready
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.221000 ms
+Scene change: TreeHouseLobby
+Destroyed duplicate LobbyManager instance
+Lobby client entered
+Lobby Client scene changed
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 73350.
+Total: 65.912000 ms (FindLiveObjects: 4.949000 ms CreateObjectMapping: 4.963000 ms MarkObjects: 55.854000 ms  DeleteObjects: 0.145000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73350.
+Total: 67.036000 ms (FindLiveObjects: 3.503000 ms CreateObjectMapping: 5.679000 ms MarkObjects: 57.748000 ms  DeleteObjects: 0.106000 ms)
+
+Received message to switch to mode PARTY
+Received message to switch to mode PARTY
+Spawned Twitch Chat ClientState...
+Waiting for Host to Initialize
+Setting up SNAKE
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page TabletInterface has no page number text element!
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Received message to switch to mode PARTY
+Received message to switch to mode PARTY
+Receiving signal to set game mode to PARTY
+Client not ready
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 45.935000 ms
+Scene change: Rooftops
+Client exit
+Lobby Client scene changed
+
+Unloading 1175 unused Assets to reduce memory usage. Loaded Objects now: 55859.
+Total: 64.306000 ms (FindLiveObjects: 2.925000 ms CreateObjectMapping: 6.232000 ms MarkObjects: 52.822000 ms  DeleteObjects: 2.327000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 55859.
+Total: 61.063000 ms (FindLiveObjects: 2.602000 ms CreateObjectMapping: 5.209000 ms MarkObjects: 53.136000 ms  DeleteObjects: 0.116000 ms)
+
+Spawned Twitch Chat ClientState...
+GamePlayer: Did not need to wait for magical Unity event.
+Game player associated with local player 1
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Did not need to wait for magical Unity event.
+GamePlayer: Magical Unity event happened - waited 67 frames.
+GamePlayer.InitPlayer(): Waiting for magical Unity event.
+GamePlayer: Magical Unity event happened - waited 59 frames.
+Marking scene init as done for local players...
+Event CharacterPicked: 15
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Event MatchStart_Client: 16
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Propagating initial level placeable IDs on client...
+Memorized 0 placeables that are part of the level.
+Receiving signal to start phase START
+Cursor(Clone) Finding player 1
+Setting bounds for cursor Cursor(Clone): Center: (-2.5, -1.9, 0.0), Extents: (41.5, 19.9, 0.0)
+PartyPickCursor(Clone) Finding controller 1
+NotAMeatboy(Clone) Finding player 1
+Setup Start
+0 players already enqueued
+4 players enqueued
+Setting up VS Mode
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Marking SetupStart as done for local players...
+Warning! Page TabletInterface has no page number text element!
+Receiving signal to start phase PLACE
+To Place phase
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 203b_LongDistanceMove_Glue2(Clone) (HorizontalMovingPlatform)(0 left)
+Placing 
+Placing 
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 91c_FanPlatform_Glue3(Clone) (MovingPlatform)(0 left)
+Placing 
+Placing 
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 90_Collapse2x1(Clone) (CollapsingBlock)(0 left)
+Found placeable 1000670 for netsurrogate with ID 289
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 42_FireHydrant(Clone) (FireHydrant)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+NetworkPlayer(Clone) (GamePlayer)
+Player 1 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Receiving signal to start phase PLACE
+To Place phase
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 200_UpBlower(Clone) (UpBlower)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 204_SwingingAxe(Clone) (SwingingAxe)(0 left)
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 06_Beam(Clone) (Placeable)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+NetworkPlayer(Clone) (GamePlayer)
+Player 1 lose streak: 2
+NetworkPlayer(Clone) (GamePlayer)
+Player 2 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Receiving signal to start phase PLACE
+To Place phase
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 11_1x1 Spike Block(Clone) (Placeable)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 206_PressureTriggerSpikes(Clone) (PressureTriggerSpikes)(0 left)
+Found placeable 4001070 for netsurrogate with ID 302
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 206_PressureTriggerSpikes(Clone) (PressureTriggerSpikes)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Found placeable 3001110 for netsurrogate with ID 303
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 202c_SmoothRotate_Glue3(Clone) (RotateBlock)(0 left)
+Placing 
+Placing 
+Placing 
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 200_UpBlower(Clone) (UpBlower)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 200_UpBlower(Clone) (UpBlower)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+NetworkPlayer(Clone) (GamePlayer)
+Player 1 lose streak: 3
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Player 4 lose streak: 1
+Receiving signal to start phase PLACE
+To Place phase
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 42_FireHydrant(Clone) (FireHydrant)(0 left)
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 86_ArrowShooter(Clone) (ProjectileLauncher)(0 left)
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 205_DiagonalMover(Clone) (HorizontalMovingPlatform)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed Blackhole(Clone) (Blackhole)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 41_AutoDoor1x4(Clone) (AutoDoor)(0 left)
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 87_Tennis Ball Shooter(Clone) (ProjectileLauncher)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed Blackhole(Clone) (Blackhole)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Player 3 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+Player 4 lose streak: 2
+Receiving signal to start phase PLACE
+To Place phase
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 206_PressureTriggerSpikes(Clone) (PressureTriggerSpikes)(0 left)
+Found placeable 3001390 for netsurrogate with ID 326
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 205a_DiagonalMover_Glue1(Clone) (HorizontalMovingPlatform)(0 left)
+Placing 
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed Glue(Clone) (MultipieceBlock)(0 left)
+Placing 
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Player 2 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+Player 3 lose streak: 2
+NetworkPlayer(Clone) (GamePlayer)
+Player 4 lose streak: 3
+Receiving signal to start phase PLACE
+To Place phase
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 50_PunchingPlant(Clone) (PunchingPlant)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed BoxingGlove(Clone) (PunchingBlock)(0 left)
+Player 1 done placing
+Waiting to place 
+1 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Player 4 lose streak: 4
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed AnimalCannon(Clone) (AnimalCannon)(0 left)
+Found placeable 2001530 for netsurrogate with ID 337
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed PiecedIcex2(Clone) (MultipieceBlock)(0 left)
+Placing 
+Placing 
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 41_AutoDoor1x4(Clone) (AutoDoor)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 86_ArrowShooter(Clone) (ProjectileLauncher)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Received state out of order for: NotAMeatboy(Clone)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received state out of order for: NotAMeatboy(Clone)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkPlayer(Clone) (GamePlayer)
+Player 1 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Player 3 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+Receiving signal to start phase PLACE
+To Place phase
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 86_ArrowShooter(Clone) (ProjectileLauncher)(0 left)
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed PiecedIcex3(Clone) (MultipieceBlock)(0 left)
+Placing 
+Placing 
+Placing 
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 86_ArrowShooter(Clone) (ProjectileLauncher)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed BoxingGlove(Clone) (PunchingBlock)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 4 done placing
+Waiting to place 
+Player 2 done placing
+Waiting to place 
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 10_Stairs(Clone) (Placeable)(0 left)
+4 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+2 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 204_SwingingAxe(Clone) (SwingingAxe)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 23_PiecedBarbedWirex3(Clone) (MultipieceBlock)(0 left)
+Placing 
+Placing 
+Placing 
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 10_Stairs(Clone) (Placeable)(0 left)
+Player 4 done placing
+Waiting to place 
+4 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 23_PiecedBarbedWirex3(Clone) (MultipieceBlock)(0 left)
+Placing 
+Placing 
+Placing 
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 90_Collapse2x1(Clone) (CollapsingBlock)(0 left)
+Found placeable 2001850 for netsurrogate with ID 364
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 91c_FanPlatform_Glue3(Clone) (MovingPlatform)(0 left)
+Placing 
+Placing 
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 205a_DiagonalMover_Glue1(Clone) (HorizontalMovingPlatform)(0 left)
+Placing 
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed HockeyShooter(Clone) (HockeyShooter)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed BoxingGlove(Clone) (PunchingBlock)(0 left)
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed PiecedIcex3(Clone) (MultipieceBlock)(0 left)
+Placing 
+Placing 
+Placing 
+Player 2 done placing
+Waiting to place 
+2 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+NetworkPlayer(Clone) (GamePlayer)
+NetworkPlayer(Clone) (GamePlayer)
+Player 2 lose streak: 1
+NetworkPlayer(Clone) (GamePlayer)
+Player 3 lose streak: 2
+NetworkPlayer(Clone) (GamePlayer)
+Player 4 lose streak: 1
+Receiving signal to start phase PLACE
+To Place phase
+Received state out of order for: PartyPickCursor(Clone)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received state out of order for: PartyPickCursor(Clone)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received state out of order for: PartyPickCursor(Clone)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received state out of order for: PartyPickCursor(Clone)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 90_Collapse2x1(Clone) (CollapsingBlock)(0 left)
+Found placeable 3002070 for netsurrogate with ID 375
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 50_PunchingPlant(Clone) (PunchingPlant)(0 left)
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 86_ArrowShooter(Clone) (ProjectileLauncher)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Placing 
+2 placed 205_DiagonalMover(Clone) (HorizontalMovingPlatform)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 10_Stairs(Clone) (Placeable)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 23_PiecedBarbedWirex3(Clone) (MultipieceBlock)(0 left)
+Placing 
+Placing 
+Placing 
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 87_Tennis Ball Shooter(Clone) (ProjectileLauncher)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Receiving signal to start phase PLACE
+To Place phase
+Player 1 done placing
+Waiting to place 
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 11_1x1 Spike Block(Clone) (Placeable)(0 left)
+Player 2 done placing
+Waiting to place 
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 204_SwingingAxe(Clone) (SwingingAxe)(0 left)
+1 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+2 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Receiving signal to start phase PLACE
+To Place phase
+Player 2 done placing
+Waiting to place 
+Player 1 done placing
+Waiting to place 
+Placing 
+1 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+2 placed 99a_Bombmini(Clone) (Bomb)(0 left)
+Player 3 done placing
+Waiting to place 
+Placing 
+3 placed 94_LinearSaw(Clone) (LinearSaw)(0 left)
+Player 4 done placing
+Waiting to place 
+Placing 
+4 placed 207_PaperAirplaneShooter(Clone) (ProjectileLauncher)(0 left)
+Receiving signal to start phase PLAY
+To Play phase
+Done waiting for characters
+Event PlayerRanking: 17
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Event MatchEnd_Client: 18
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Null character found - make sure DoPlayMode doesn't run after player objects have been destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000892
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000891
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000894
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000893
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4000932
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4000931
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4000934
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4000933
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001751
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001750
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001352
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001350
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001553
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001550
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001152
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001151
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001154
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001153
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001156
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001155
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001411
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001410
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001372
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001371
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001673
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001670
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001773
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001770
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 3001872
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 3001871
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001912
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001911
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001914
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001913
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 3002113
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 3002110
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000892
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000891
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000894
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2000893
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4000932
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4000931
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4000934
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4000933
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001751
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001750
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001352
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001350
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001553
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 1001550
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001152
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001151
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001154
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001153
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001156
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001155
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001411
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001410
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001372
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001371
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001673
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001670
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001773
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 2001770
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 3001872
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 3001871
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001912
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001911
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001914
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 4001913
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 3002113
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Block already marked for destruction: 3002110
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 909 unused Assets to reduce memory usage. Loaded Objects now: 56637.
+Total: 68.030000 ms (FindLiveObjects: 3.790000 ms CreateObjectMapping: 5.622000 ms MarkObjects: 57.733000 ms  DeleteObjects: 0.885000 ms)
+
+Client not ready
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.783000 ms
+Scene change: TreeHouseLobby
+Destroyed duplicate LobbyManager instance
+Lobby client entered
+Lobby Client scene changed
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 73455.
+Total: 71.907000 ms (FindLiveObjects: 4.960000 ms CreateObjectMapping: 5.106000 ms MarkObjects: 61.698000 ms  DeleteObjects: 0.142000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 73455.
+Total: 74.289000 ms (FindLiveObjects: 4.281000 ms CreateObjectMapping: 5.222000 ms MarkObjects: 64.671000 ms  DeleteObjects: 0.114000 ms)
+
+Received message to switch to mode PARTY
+Received message to switch to mode PARTY
+Spawned Twitch Chat ClientState...
+Waiting for Host to Initialize
+Setting up SNAKE
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page PlayOnlinePage has no page number text element!
+Warning! Page TabletInterface has no page number text element!
+Game saved to /home/hb/.config/unity3d/Clever Endeavour Games/Ultimate Chicken Horse/saveData.uch
+Received message to switch to mode PARTY
+Received message to switch to mode PARTY
+Abort reason set to 
+BackToMainMenuInASecond
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient DropConnection :https://eu1-mm.unet.unity3d.com/json/reply/DropConnectionRequest
+[Net] U: Leaving Unity Match: 450359962765395609 @ 18.184.145.74:9999 [52270,True]
+[Net] St:Leaving Steam Lobby
+Event GameQuit: 19
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] U: Connection Drop Successful 
+Destroying LobbyPlayer Object
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroying LobbyPlayer Object
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroying LobbyPlayer Object
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroying LobbyPlayer Object
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not update lobby skill info; SteamManager is already destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not update lobby skill info; SteamManager is already destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not update lobby skill info; SteamManager is already destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not update lobby skill info; SteamManager is already destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LobbyPlayer.OnDestroy for player 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] Demented left the lobby
+LobbyPlayer.OnDestroy for player 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] brown.town left the lobby
+LobbyPlayer.OnDestroy for player 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] Pretzels left the lobby
+LobbyPlayer.OnDestroy for player 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[Net] Gay pursuit left the lobby
+Sending LobbyPlayerRemovedEvent for player 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not update lobby skill info; SteamManager is already destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not update lobby skill info; SteamManager is already destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not update lobby skill info; SteamManager is already destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sending LobbyPlayerRemovedEvent for player 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not update lobby skill info; SteamManager is already destroyed.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find player slot with network number 4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Did not find target for sync message for 138
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Did not find target for sync message for 136
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7fda433ff700 -> priority: 1 
+  Thread -> id: 7fda42bfe700 -> priority: 1 
+SaveSystemProtector shutting down...
+LobbyManager being destroyed
+LobbyManagerManager shutting down...
+[Net] Shutting down GameSparks
+Event GameQuit: 20
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

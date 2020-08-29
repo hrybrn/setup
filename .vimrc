@@ -67,7 +67,7 @@ autocmd vimenter * NERDTree
 " enable omnifunc
 set omnifunc=syntaxcomplete#Complete
 
-colorscheme dracula
+" colorscheme dracula
 
 noremap <S-Tab> <C-d>
 

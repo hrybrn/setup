@@ -1,0 +1,7 @@
+{"type":"analytics.appRunning.v1","msg":{"ts":1592089909348,"t_since_start":1206006576,"duration":1592089908,"local_time_offset":0}}
+{"type":"analytics.custom.v1","msg":{"ts":1592090082972,"t_since_start":1379630460,"name":"PlayerRanking","custom_params":{"MatchGuid":"ba596c49-a3fc-6cac-3551-397eef175b90","Rank":1,"Score":180,"SkillMean":13.3719087465371,"SkillStdDev":1.10693485653294,"version":"1.7.028"}}}
+{"type":"analytics.custom.v1","msg":{"ts":1592090082972,"t_since_start":1379630543,"name":"MatchEnd_Client","custom_params":{"MatchGuid":"ba596c49-a3fc-6cac-3551-397eef175b90","MatchGlobalCamTime":1253.991,"MatchLocalCamTime":0.0,"version":"1.7.028"}}}
+{"type":"analytics.custom.v1","msg":{"ts":1592090083895,"t_since_start":1380553271,"name":"unity.sceneLoad","custom_params":{"level_name":"TreeHouseLobby","level_num":19,"total_levels":27}}}
+{"type":"analytics.custom.v1","msg":{"ts":1592090091965,"t_since_start":1388623998,"name":"GameQuit","custom_params":{"Runtime":1376.034,"version":"1.7.028"}}}
+{"type":"analytics.appRunning.v1","msg":{"ts":1592090093104,"t_since_start":1389762460,"duration":1388,"local_time_offset":0}}
+(1){"type":"analytics.appStop.v1","msg":{"ts":1592090093104,"t_since_start":1389762661}}

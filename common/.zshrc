@@ -1,17 +1,25 @@
-# hrybrn zsh config as of 16/7/19
+# hrybrn zsh config as of 13/11/20
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
-ZSH_THEME="miloshadzic"
+ZSH_THEME="sorin"
+ZSH_COLORIZE_STYLE="colorful"
 
-# makes autocomplete case sensitive
-CASE_SENSITIVE="true"
+# makes autocomplete case insensitive
+CASE_SENSITIVE="false"
 
 # sets timestamp format for zsh history
 HIST_STAMPS="yyyy-mm-dd"
 
-plugins=(git colored-man-pages colorize pip python ssh-agent zsh-syntax-highlighting vi-mode)
+case `uname` in
+  Darwin)
+    plugins=(git colorize pip python brew osx zsh-syntax-highlighting ssh-agent vi-mode colored-man-pages)
+  ;;
+  Linux)
+    plugins=(git colorize pip python zsh-syntax-highlighting ssh-agent vi-mode colored-man-pages)
+  ;;
+esac
 
 source $ZSH/oh-my-zsh.sh
 
@@ -21,49 +29,68 @@ source $ZSH/oh-my-zsh.sh
 export SSH_KEY_PATH="~/.ssh/rsa_id"
 
 # brew
-# export PATH="/usr/local/bin:$PATH"
-
-# sdkman
-export SDKMAN_DIR="$HOME/.sdkman"
-[[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
+export PATH="/usr/local/bin:$PATH"
 
 # vscode - comment this if using stable release
 # alias code='code-insiders'
 
-# openssl
-export PATH="/usr/local/opt/openssl/bin:$PATH"
-export LDFLAGS="-L/usr/local/opt/openssl/lib"
-export CPPFLAGS="-I/usr/local/opt/openssl/include"
-export PKG_CONFIG_PATH="/usr/local/opt/openssl/lib/pkgconfig"
-
-# pyenv
-# export PATH="/home/hb/.pyenv/bin:$PATH"
-# eval "$(pyenv init -)"
-# eval "$(pyenv virtualenv-init -)"
-
-# docker-machine
-# eval $(docker-machine env default)
-
 # vim
 export EDITOR=vim
 
-# package managers - deno (js), cargo (rust), ruby (ruby), node (js)
+# package managers - deno (js), cargo (rust), ruby (ruby), npm (js), yarn (js)
 export PATH="$HOME/.deno/bin:$PATH"
 export PATH="$HOME/.cargo/bin:$PATH"
-export PATH="/usr/local/opt/ruby/bin:$PATH"
 export PATH="$HOME/.npm-packages/bin:$PATH"
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
-# for avrgcc v4.5
-# export PATH="/usr/local/CrossPack-AVR/bin:$PATH"
-
+# version managers - nvm (node), rvm (ruby), python (pyenv), sdkman (java)
 # nvm
 export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"
+export NODE_PATH=$NODE_PATH:`npm root -g`
+# rvm
+export PATH="$PATH:$HOME/.rvm/bin"
+# pyenv
+eval "$(pyenv init -)"
+# sdkman
+export SDKMAN_DIR="$HOME/.sdkman"
+[[ -s "$HOME/.sdkman/bin/sdkman-init.sh" ]] && source "$HOME/.sdkman/bin/sdkman-init.sh"
+
+# thefuck
+eval $(thefuck --alias fuck)
+alias fuckyeah='fuck --yeah'
+
+# weather
+alias weather='curl https://v2.wttr.in/'
+
+# brupdate
+alias brupdate='brew update && brew upgrade'
+
+# gcloud completion
+# source '/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.zsh.inc'
+# source '/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.zsh.inc'
+
+# xcode
+case `uname` in
+  Darwin)
+    export PATH="/usr/local/opt/expat/bin:$PATH"
+    export SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk
+  ;;
+esac
 
 # startx on boot
 case $(tty) in /dev/tty1)
-        startx ;;
+  startx ;;
 esac
 
-export PATH="/home/hb/scripts:$PATH"
+
+# hub setup
+# DISABLE_UPDATE_PROMPT=true
+
+# eval "$(hub alias -s)"
+# export GITHUB_HOST=github.intuit.com
+# export HUB_PROTOCOL=ssh
+
+# iterm
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"

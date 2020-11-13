@@ -17,9 +17,7 @@ Plugin 'preservim/nerdtree'
 Plugin 'kien/ctrlp.vim'
 Plugin 'valloric/youcompleteme'
 Plugin 'vim-syntastic/syntastic'
-
-Plugin 'tomasr/molokai'
-Plugin 'dracula/vim'
+Plugin 'JamshedVesuna/vim-markdown-preview'
 
 Plugin 'prettier/vim-prettier'
 " Plugin 'leafgarland/typescript-vim'
@@ -67,8 +65,6 @@ autocmd vimenter * NERDTree
 " enable omnifunc
 set omnifunc=syntaxcomplete#Complete
 
-" colorscheme dracula
-
 noremap <S-Tab> <C-d>
 
 " youcompleteme keybindings
@@ -101,3 +97,5 @@ augroup SyntaxSettings
     autocmd!
     autocmd BufNewFile,BufRead *.tsx set filetype=typescript
 augroup END
+
+let vim_markdown_preview_github=1

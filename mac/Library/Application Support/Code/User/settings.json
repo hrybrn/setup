@@ -1,0 +1,83 @@
+{
+    "window.zoomLevel": 1,
+    "editor.tabSize": 2,
+    "explorer.confirmDelete": false,
+    "files.autoSaveDelay": 3000,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "gitProjectManager.baseProjectsFolders": [
+        "/Users/hbrown3/dev"
+    ],
+    "gitProjectManager.ignoredFolders": [
+        "node_modules"
+    ],
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.autofetch": true,
+    "python.jediEnabled": false,
+    "git.confirmSync": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "yaml.schemas": {
+        "file:///Users/hbrown3/.vscode/extensions/atlassian.atlascode-2.8.4/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.jira.jqlList": [
+        {
+            "enabled": true,
+            "id": "1d51e365-9c6c-403d-8d70-4bc27a2acf9d",
+            "monitor": true,
+            "name": "My jira.intuit.com Issues",
+            "query": "assignee = currentUser() ORDER BY lastViewed DESC ",
+            "siteId": "jira.intuit.com"
+        },
+        {
+            "enabled": true,
+            "id": "5cc12f7a-7d97-405e-ae58-8d6353befb4e",
+            "monitor": true,
+            "name": "Galahad Issues",
+            "query": "\"Scrum Team\" = \"Galahad London\" ",
+            "siteId": "jira.intuit.com"
+        },
+        {
+            "enabled": true,
+            "id": "9b3aedbf-a5d9-4bae-8358-2aa99acde273",
+            "monitor": true,
+            "name": "Galahad Epics",
+            "query": "\"Scrum Team\" = \"Galahad London\"  AND type = Epic ",
+            "siteId": "jira.intuit.com"
+        },
+        {
+            "enabled": true,
+            "id": "519e0057-11b1-4714-adcb-c417b2260403",
+            "monitor": true,
+            "name": "Galahad Open Issues",
+            "query": "\"Scrum Team\" = \"Galahad London\" AND status = \"Open\"",
+            "siteId": "jira.intuit.com"
+        }
+    ],
+    "tslint.packageManager": "yarn",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.settings.editor": "json",
+    "swipeToNavigate.action": "recent-code",
+    "window.nativeTabs": true,
+    "todo-tree.tree.showScanModeButton": false,
+    "workbench.tips.enabled": false,
+    "editor.fontFamily": "Jetbrains Mono,Jetbrains Mono,Jetbrains Mono,Jetbrains Mono",
+    "editor.fontLigatures": true,
+    "files.autoSave": "off",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "javascript.preferences.importModuleSpecifier": "non-relative",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.languageServer": "Microsoft"
+}

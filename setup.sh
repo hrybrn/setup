@@ -60,12 +60,21 @@ then
   ssh-keygen -b 4096
 fi
 
-read -p "do you want to import zsh config? y/n " -n 1 -r
+read -p "do you want to import config for your system? y/n " -n 1 -r
 echo 
 if [[ $REPLY =~ ^[Yy]$ ]]
 then
   DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
-  cp $DIR/.zshrc ~/.zshrc
+  case `uname` in
+  Darwin)
+    cp -a $DIR/mac/. ~
+  ;;
+  Linux)
+    cp -a $DIR/linux/. ~
+  ;;
+  esac
+
+  cp -a $DIR/common/. ~
 fi
 
 echo "here are a few things that you might want to do next:
